@@ -1,0 +1,16 @@
+
+body{
+    background-color: aqua;
+}
+
+div{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+}
+
+h1{
+    font-style: italic;
+    
+}
